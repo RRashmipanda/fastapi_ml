@@ -21,13 +21,13 @@
     },
     "P003": {
         "name": "Sneha Kulkarni",
-        "city": "Pune",
+        "city": "Delhi",
         "age": 22,
         "gender": "female",
         "height": 1.6,
-        "weight": 45,
-        "bmi": 17.58,
-        "verdict": "Underweight"
+        "weight": 70.0,
+        "bmi": 27.34,
+        "verdict": "Normal"
     },
     "P004": {
         "name": "Arjun Verma",
