@@ -111,7 +111,7 @@ def sort_patients(sort_by: str= Query(...,description="Sort on basis of height,w
 
 @app.post("/create")
 def create_patient(patient: Patient):
-    
+
     # load existing data
     data = load_data()
     # check if the patient already exist
