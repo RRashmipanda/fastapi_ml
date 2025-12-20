@@ -60,6 +60,7 @@ def save_data(data):
         json.dump(data,f)
  
 
+
 @app.get("/")
 def hello():
     return {"message":" patient management system "}
